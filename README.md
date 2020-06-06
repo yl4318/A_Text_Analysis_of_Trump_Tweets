@@ -1,2 +1,3 @@
 # A_Text_Analysis_of_Trump_Tweets
- A Text Analysis of Trump's Tweets using R
+
+This is a DataCamp Project. See [analysis.md](analysis.md) for details.
